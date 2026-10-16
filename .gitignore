@@ -1,0 +1,9 @@
+/vendor
+/.env
+/storage/*.key
+/bootstrap/cache/*.php
+/storage/framework/cache/data/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+
+/storage/mysql-data/
